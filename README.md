@@ -5,6 +5,14 @@ Includes data analysis, logistic regression model training, and a Streamlit web 
 
 ---
 
+# Credit Risk Prediction App
+
+🚀 **Live App:** [Live App link](/https://github.com/Ritesh0802/credit-risk-default-prediction)
+
+A simple Machine Learning project that predicts the probability of loan default...
+
+---
+
 ## Project Overview
 
 This project analyzes credit risk using financial and credit-related features such as:
@@ -116,3 +124,4 @@ It is not intended for real financial decision-making.
 **Ritesh Prasad**  
 Electronics & Communication Graduate  
 Aspiring Data Analyst / ML Enthusiast
+
